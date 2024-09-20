@@ -3,3 +3,5 @@
 
 
 Link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+Using machine learning technique, KNN, Logistic regression, Ada, and ...
