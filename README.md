@@ -22,7 +22,7 @@ This report will explore the application of machine learning techniques in predi
 
 ### Next Action
 
-#### References
+### References
 https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 Risselada, H.; Verhoef, P.C.; Bijmolt, T.H. Staying power of churn prediction models. J. Interact. Mark. 2010, 24, 198–208.
