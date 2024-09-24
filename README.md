@@ -25,6 +25,10 @@ Gradient Boosting has the highest balanced accuracy (0.969) and F1-score (0.982)
 
 The ROC curve measures the performance of classification models. AUC (Area Under the Curve) = 0.93 means that the model is 93% effective at distinguishing between churners and non-churners. The closer AUC is to 1, the better the model performs.
 
+![download](https://github.com/user-attachments/assets/e8fe388a-1033-4c05-bf6d-53ec5507cd8b)
+
+
+
 ### Next Action
 
 For future research, I would recommend exploring hyperparameter tuning to further optimize the performance of the models. Techniques like Grid Search or Random Search can help identify the best combination of parameters to enhance model accuracy. Additionally, incorporating more advanced models such as XGBoost or CatBoost could potentially improve predictive power. It would also be valuable to perform a feature importance analysis to better understand which customer attributes contribute most to churn, leading to actionable insights for retention strategies.
