@@ -21,8 +21,10 @@ This report will explore the application of machine learning techniques in predi
 
 ### Techniques and Tool
 
-**Data Cleaning & Preprocessing:** Handled missing values, categorical encoding, and feature scaling.
+**Data Cleaning & Preprocessing:** Handled missing values, categorical encoding, and feature scaling. 
+
 **Exploratory Data Analysis (EDA):** Visualized customer trends, churn rates, and correlations to identify key patterns.
+
 **Machine Learning Models:** Applied multiple models including:
 + Logistic Regression
 + K-Nearest Neighbors (KNN)
@@ -30,12 +32,13 @@ This report will explore the application of machine learning techniques in predi
 + Decision Tree
 + Gradient Boosting
 + AdaBoost
+
 **Model Evaluation Metrics:** Models were evaluated based on:
-Recall
-Specificity
-Precision
-F1-Score
-Balanced Accuracy
++ Recall
++ Specificity
++ Precision
++ F1-Score
++ Balanced Accuracy
 
 ### Conclusion
 
