@@ -18,6 +18,25 @@ Predicting customer churn using big data has become a focal point in machine lea
    Retaining high-risk customers allows for the accumulation of valuable data, providing critical insights for future risk management and the development of personalized services.
 This report will explore the application of machine learning techniques in predicting customer churn, highlighting its importance in modern banking.
 
+
+### Techniques and Tool
+
+**Data Cleaning & Preprocessing:** Handled missing values, categorical encoding, and feature scaling.
+**Exploratory Data Analysis (EDA):** Visualized customer trends, churn rates, and correlations to identify key patterns.
+**Machine Learning Models:** Applied multiple models including:
++ Logistic Regression
++ K-Nearest Neighbors (KNN)
++ Random Forest
++ Decision Tree
++ Gradient Boosting
++ AdaBoost
+**Model Evaluation Metrics:** Models were evaluated based on:
+Recall
+Specificity
+Precision
+F1-Score
+Balanced Accuracy
+
 ### Conclusion
 
 Gradient Boosting has the highest balanced accuracy (0.969) and F1-score (0.982), making it the best-performing model in this study.
