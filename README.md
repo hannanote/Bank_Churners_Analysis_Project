@@ -1,7 +1,7 @@
 ## Bank Churners Machine Learning Analysis
 #### This project explores the use of machine learning models to predict customer churn in banking. By identifying at-risk customers, the analysis aims to help banks improve profitability, maintain customer relationships, and gain valuable insights for personalized service development.
 
-### Overview
+### Project Overview
 Customers are the cornerstone of every industry, and in banking, they are at the heart of customer-dependent organizations. Long-term customers are directly tied to revenue generation, making it essential for banks to retain them. According to the Harvard Business Review, reducing customer churn by just 5% can result in a 25% to 85% increase in profits. Customers are the most important assets on profit of a bank. 
 
 Customer churn, the process of losing customers to competitors, poses a fundamental challenge to banks, leading to revenue loss. Managing churn requires identifying customers who are likely to switch to other banks. As Risselada et al. (2010) demonstrated, effective churn management is crucial for building long-term relationships that maximize the value of the customer base.
@@ -40,7 +40,7 @@ This report will explore the application of machine learning techniques in predi
 + F1-Score
 + Balanced Accuracy
 
-### Conclusion
+### Analysis
 
 Gradient Boosting has the highest balanced accuracy (0.969) and F1-score (0.982), making it the best-performing model in this study.
 
